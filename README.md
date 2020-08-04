@@ -7,7 +7,7 @@ Example CRUD Application..
 #### Running Locally
 
 First, install the dependencies
-
+ddd
 `npm install`
 
 A Postgres DB is needed, so if you are using Docker, then you can start a postgres db easily.
